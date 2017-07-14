@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FileDownloader</string>
+    <string name="fragment_dialog_progress_download_indeterminate">FRAGMENT DIALOG PROGRESS DOWNLOAD (INDETERMINATE)</string>
+    <string name="fragment_dialog_progress_download_determinate">FRAGMENT DIALOG PROGRESS DOWNLOAD (DETERMINATE)</string>
+    <string name="notification_bar_progress_download_indeterminate">NOTIFICATION BAR PROGRESS DOWNLOAD (INDETERMINATE)</string>
+    <string name="notification_bar_progress_download_determinate">NOTIFICATION BAR PROGRESS DOWNLOAD (DETERMINATE)</string>
 </resources>
